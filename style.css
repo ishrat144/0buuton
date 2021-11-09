@@ -1,0 +1,14 @@
+body{
+    background-color: darkslategrey;
+    text-align: center;
+}
+.container h1{
+    color: floralwhite;
+    font-size:xx-large;
+}
+.container button{
+    color:rgba(5, 44, 14, 0.938) ;
+    font-size: xx-large;
+    background-color:hsl(192, 64%, 53%) ;
+
+}
